@@ -1,5 +1,8 @@
 _repo: Armenia-a-martyr-nation-A-historical-sketch-of-the-Armenian-people-from-traditional-times-to-__69646
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69646-h/images/cover.jpg
 creator:
   author:
     agent_name: Gabrielian, Mugurdich Chojhauji
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '55356'
     url: http://www.gutenberg.org/2009/agents/55356
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69646#Armenia-a-martyr-nation-A-historical-sketch-of-the-Armenian-people-from-traditional-times-to-_
 gutenberg_issued: '2022-12-28'
 identifiers:
   gutenberg: '69646'
